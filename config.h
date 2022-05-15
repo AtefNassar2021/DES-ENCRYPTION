@@ -37,5 +37,7 @@
 #include<string.h>
 #include "DES.h"
 #include "HexToAscii.h"
+#include <avr/interrupt.h>
+
 #endif	/* CONFIG_H */
 

@@ -18,6 +18,7 @@ build/default/production/DES.o.d build/default/production/DES.o: DES.c \
  c:\program\ files\microchip\xc8\v2.32\avr\lib\gcc\avr\5.4.0\include\stddef.h \
  LCD.h c:\program\ files\microchip\xc8\v2.32\avr\avr\include\string.h \
  HexToAscii.h \
+ c:\program\ files\microchip\xc8\v2.32\avr\avr\include\avr\interrupt.h \
  c:\program\ files\microchip\xc8\v2.32\avr\avr\include\stdio.h \
  c:\program\ files\microchip\xc8\v2.32\avr\lib\gcc\avr\5.4.0\include\stdarg.h
 
@@ -66,6 +67,8 @@ LCD.h:
 c:\program\ files\microchip\xc8\v2.32\avr\avr\include\string.h:
 
 HexToAscii.h:
+
+c:\program\ files\microchip\xc8\v2.32\avr\avr\include\avr\interrupt.h:
 
 c:\program\ files\microchip\xc8\v2.32\avr\avr\include\stdio.h:
 

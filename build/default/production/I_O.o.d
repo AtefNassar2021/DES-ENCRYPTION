@@ -18,7 +18,8 @@ build/default/production/I_O.o.d build/default/production/I_O.o: I_O.c \
  LCD.h c:\program\ files\microchip\xc8\v2.32\avr\avr\include\string.h \
  DES.h c:\program\ files\microchip\xc8\v2.32\avr\avr\include\stdio.h \
  c:\program\ files\microchip\xc8\v2.32\avr\lib\gcc\avr\5.4.0\include\stdarg.h \
- HexToAscii.h
+ HexToAscii.h \
+ c:\program\ files\microchip\xc8\v2.32\avr\avr\include\avr\interrupt.h
 
 config.h:
 
@@ -69,3 +70,5 @@ c:\program\ files\microchip\xc8\v2.32\avr\avr\include\stdio.h:
 c:\program\ files\microchip\xc8\v2.32\avr\lib\gcc\avr\5.4.0\include\stdarg.h:
 
 HexToAscii.h:
+
+c:\program\ files\microchip\xc8\v2.32\avr\avr\include\avr\interrupt.h:
